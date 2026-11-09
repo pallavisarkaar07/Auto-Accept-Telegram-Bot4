@@ -62,4 +62,4 @@ Declineall - To decline all the pending join requests [OWNER]
 
 ### Developer
 
-- [AutoApprove Bot by SnowBall](https://t.me/Snowball_Official) ❄️
+- [AutoApprove Bot by SnowBall](https://t.me/Pallavisarkaar07) ❄️
