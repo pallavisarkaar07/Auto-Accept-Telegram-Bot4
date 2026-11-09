@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/stars/Snowball-0/Auto-Accept-Telegram-Bot?style=social" />
-<img src="https://img.shields.io/github/forks/Snowball-0/Auto-Accept-Telegram-Bot?style=social" />
+<img src="https://img.shields.io/github/stars/Pallavisarkaar07/Auto-Accept-Telegram-Bot?style=social" />
+<img src="https://img.shields.io/github/forks/Pallavisarkaar07/Auto-Accept-Telegram-Bot?style=social" />
 </p>
 
 <b>HELLO...⚡</b>
@@ -19,12 +19,12 @@
 
 ### Heruko Deploy
 
-<a href="https://heroku.com/deploy?template=https://github.com/Snowball-01/Auto-Accept-Telegram-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/Pallavisarkaar07/Auto-Accept-Telegram-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
 ### Render Deploy
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Snowball-01/Auto-Accept-Telegram-Bot)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Pallavisarkaar07/Auto-Accept-Telegram-Bot)
 
 ## Config Varies
 
